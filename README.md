@@ -1,4 +1,4 @@
-# Telerivet Cloud Script API Examples
+# Telerivet Cloud Script API Example
 
 https://telerivet.com/api/script
 
